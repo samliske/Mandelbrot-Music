@@ -1,1 +1,1 @@
-# Mandelbrot-Music
+The Mandelbrot set is well known by the impressive fractal structures it generates from a seemingly simple set of rules, but what of how the set sounds? The given Python script uses the Mido library to convert pure mathematics into pure music, rendering the result as a MIDI file which can be loaded into a digital audio workstation and customized to one's satisfaction. 
